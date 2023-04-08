@@ -40,13 +40,13 @@
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1), 0 6px 6px rgba(0, 0, 0, 0.1);
     padding: 50px 20px;
     text-align: center;
-    max-width: 90%;
+    max-width: 92%;
     width: 800px;
     padding-bottom: 10px;
 }
 
 h1 {
- font-size: 4rem;
+ font-size: 3rem;
  letter-spacing: 2px;
  text-align: center;
 }
@@ -118,12 +118,13 @@ p {
       width: 100%;
       max-width: 80vw;
       max-height: 100vh;
+      padding-bottom: 2rem;
     }  
 
     .container {
       width: 100%;
       max-width: 80vw;
-      max-height: 55vh;
+      max-height: 65vh;
     }
   
   .muted {
@@ -131,16 +132,19 @@ p {
   }
 
   h1 {
-    font-size: 1.5rem;
-    padding-top: 5rem;
+    font-size: 1.25rem;
+    padding-bottom: 1.4rem; 
   }
 
   p {
-    font-size: 1rem;
+    font-size: 0.75rem;
+  }
+
+  .text {
+    margin-bottom: 2.5rem;
   }
 
   .joke {
     font-size: 14px;
-}
-
+ }
 }
