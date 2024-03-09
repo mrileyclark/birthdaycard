@@ -16,7 +16,7 @@ Link to project: [ https://mrileyclark.github.io/birthdaycard/]
 
 Tech used: HTML, CSS, JavaScript, API
 
-Birthday Cad - Developed a JavaScript application that utilizes 
+Birthday Card - Developed a JavaScript application that utilizes 
 the Random Dad jokes API to find breweries in a given city. The user enters 
 the city name, and the application fetches relevant brewery data from the API. The 
 information is then dynamically displayed in a table format, including details 
