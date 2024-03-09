@@ -1,14 +1,19 @@
-# Birthday Card 
+# Happy Birthday Joke Generator
 
-****
-
-I wanted to send something special to my father for his birthday, so I created a birthday card that 
-gives him plenty of "Dad" jokes to fill his day with laughter.
+I wanted to send something fun to my father for his birthday, so I created a birthday card that gives him plenty of "Dad" jokes to fill his day with laughter. This project provides a fun and interactive way to celebrate birthdays by generating jokes for you and your friends to enjoy! It utilizes JavaScript to fetch jokes from the "icanhazdadjoke" API and dynamically updates the joke displayed on the webpage. 
 
 Link to project: [ https://mrileyclark.github.io/birthdaycard/]
 
 
 <img src="https://github.com/mrileyclark/birthdaycard/blob/main/birthdaycard_.png" width="50%" height="30%">
+
+# How it works
+
+When the page loads, a joke is automatically generated and displayed.
+You can click the "Get Another Joke" button to fetch and display a new joke.
+The joke fetching is done asynchronously using the fetch API and async/await.
+The project is designed to be responsive, ensuring an optimal viewing experience across different devices.
+
 
 ****
 
@@ -16,16 +21,48 @@ Link to project: [ https://mrileyclark.github.io/birthdaycard/]
 
 Tech used: HTML, CSS, JavaScript, API
 
-Birthday Card - Developed a JavaScript application that utilizes 
-the Random Dad jokes API to find breweries in a given city. The user enters 
-the city name, and the application fetches relevant brewery data from the API. The 
-information is then dynamically displayed in a table format, including details 
-such as brewery name, address, city, state, and website URL. I ensured the application
-handles potential null values for brewery names and website URLs, following best 
-practices for data presentation and error handling.
 
 ****
 
  ## Lessons Learned: 
 
 I plan on revisting the app to make the card open and close with flip animation.
+
+### Happy Birthday Joke Generator
+
+This project provides a fun and interactive way to celebrate birthdays by generating jokes for you and your friends to enjoy! It utilizes JavaScript to fetch jokes from the "icanhazdadjoke" API and dynamically updates the joke displayed on the webpage.
+
+#### How it works
+
+The project consists of an HTML file (`index.html`) and a CSS file (`styles.css`). The main functionality is implemented in the JavaScript file (`script.js`). Here's how it works:
+
+1. When the page loads, a joke is automatically generated and displayed.
+2. You can click the "Get Another Joke" button to fetch and display a new joke.
+3. The joke fetching is done asynchronously using the `fetch` API and `async/await`.
+4. The project is designed to be responsive, ensuring an optimal viewing experience across different devices.
+
+#### Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+#### Installation
+
+1. Clone the repository:
+
+   ```
+   git clone https://github.com/yourusername/happy-birthday-joke-generator.git
+   ```
+
+2. Open `index.html` in your web browser.
+
+#### Preview
+
+![Happy Birthday Joke Generator Preview](preview.png)
+
+#### Contributors
+
+- Your Name <your@email.com>
+
+Feel free to contribute by adding new features or improving the existing ones. If you encounter any issues, please open an issue on GitHub. Enjoy and happy birthday! 🎉
