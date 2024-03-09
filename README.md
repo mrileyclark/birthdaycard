@@ -7,7 +7,8 @@ gives him plenty of "Dad" jokes to fill his day with laughter.
 
 Link to project: [ https://mrileyclark.github.io/birthdaycard/]
 
-![Alt text](imahttps://github.com/mrileyclark/birthdaycard/blob/main/birthdaycard_.png
+
+<img src="https://github.com/mrileyclark/birthdaycard/blob/main/birthdaycard_.png" width="50%" height="30%">
 
 ****
 
