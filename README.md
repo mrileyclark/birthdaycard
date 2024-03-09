@@ -1,11 +1,15 @@
-# Happy Birthday Joke Generator
+# Happy Birthday Joke Generator 🥳
 
 I wanted to send something fun to my father for his birthday, so I created a birthday card that gives him plenty of "Dad" jokes to fill his day with laughter. This project provides a fun and interactive way to celebrate birthdays by generating jokes for you and your friends to enjoy! It utilizes JavaScript to fetch jokes from the "icanhazdadjoke" API and dynamically updates the joke displayed on the webpage. 
+
+***
 
 Link to project: [ https://mrileyclark.github.io/birthdaycard/]
 
 
 <img src="https://github.com/mrileyclark/birthdaycard/blob/main/birthdaycard_.png" width="50%" height="30%">
+
+***
 
 # How it works
 
@@ -26,43 +30,11 @@ Tech used: HTML, CSS, JavaScript, API
 
  ## Lessons Learned: 
 
-I plan on revisting the app to make the card open and close with flip animation.
+I plan on revisting the project to make the card open and close with flip animation.
 
-### Happy Birthday Joke Generator
-
-This project provides a fun and interactive way to celebrate birthdays by generating jokes for you and your friends to enjoy! It utilizes JavaScript to fetch jokes from the "icanhazdadjoke" API and dynamically updates the joke displayed on the webpage.
-
-#### How it works
-
-The project consists of an HTML file (`index.html`) and a CSS file (`styles.css`). The main functionality is implemented in the JavaScript file (`script.js`). Here's how it works:
-
-1. When the page loads, a joke is automatically generated and displayed.
-2. You can click the "Get Another Joke" button to fetch and display a new joke.
-3. The joke fetching is done asynchronously using the `fetch` API and `async/await`.
-4. The project is designed to be responsive, ensuring an optimal viewing experience across different devices.
-
-#### Technologies Used
-
-- HTML
-- CSS
-- JavaScript
-
-#### Installation
-
-1. Clone the repository:
-
-   ```
-   git clone https://github.com/yourusername/happy-birthday-joke-generator.git
-   ```
-
-2. Open `index.html` in your web browser.
-
-#### Preview
-
-![Happy Birthday Joke Generator Preview](preview.png)
 
 #### Contributors
 
-- Your Name <your@email.com>
+- Mary Clark 🥳
 
-Feel free to contribute by adding new features or improving the existing ones. If you encounter any issues, please open an issue on GitHub. Enjoy and happy birthday! 🎉
+- Feel free to contribute by adding new features or improving the existing ones. If you encounter any issues, please open an issue on GitHub. Enjoy and happy birthday! 🎉
